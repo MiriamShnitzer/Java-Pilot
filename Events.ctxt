@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Events
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Events\ here.\r\n\r\n\ @author\ (your\ eventType)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=e
+comment1.target=Events(java.lang.String)
+comment1.text=\r\n\ Default\ constructor\ for\ objects\ of\ class\ Events\r\n\ constructs\ eventType\ to\ "Shacharit"\r\n
+comment2.params=e
+comment2.target=Events(Events)
+comment3.params=
+comment3.target=java.lang.String\ getEvent()
+comment3.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+comment4.params=type
+comment4.target=void\ setEvent(java.lang.String)
+numComments=5
